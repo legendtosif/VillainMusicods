@@ -14,8 +14,8 @@ from SONALI.mongo.couples_db import _get_image, get_couple
 POLICE = [
     [
         InlineKeyboardButton(
-            text="ꪜ 𝛊 ɭ ɭ ᧘ 𝛊 𝛈",
-            url=f"https://t.me/iamakki001",
+            text="˹ᴀɴᴏɴʏᴍᴏᴜs - xᴅ˼",
+            url=f"https://t.me/ll_Anonymous_Bots_ll",
         ),
     ],
 ]
